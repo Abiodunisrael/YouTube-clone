@@ -1,7 +1,9 @@
-body{
-    margin: 0;
+body {
+    line-height: normal;
+
     padding: 0;
 }
+
 a{
     text-decoration: none;
 }
@@ -45,11 +47,13 @@ display: flex;
     margin: 0;
     padding: 0;
 }
-.md-1b,.md-1c{
+
+.md-1b,.md-1c {
     color: gray;
     margin: 0;
     padding: 0;
 }
+
 .md-1c{
     display: flex;
 }
